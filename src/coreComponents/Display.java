@@ -32,7 +32,7 @@ public class Display extends Canvas implements Runnable {
 	int newPos = 0;
 	// a string to store the title (name) of the game so it can be used easier
 	// later
-	public static final String Title = "Wall Simulator 34D";
+	public static final String Title = "Wall Simulator 34-D";
 	// creates a thread to be run for the game
 	private Thread thread = new Thread(this);
 	// creates an object of the screen class we created
